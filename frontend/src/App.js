@@ -19,6 +19,8 @@ import ServiciosList from './components/ServiciosList';
 import GaleriaFotos from './components/GaleriaFotos';
 import UbicacionCard from './components/UbicacionCard';
 
+
+
 export default function App() {
   return (
     <>
